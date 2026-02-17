@@ -1,0 +1,20 @@
+ Ransomware Attack
+
+A simulated ransomware intrusion scenario situation was created in a conceptual environment.
+This incident began when an employee clicked on a phishing email containing
+a malicious attachment. The ransomware ran and started encrypting
+
+files on the infected system and shared network drives.
+The infected computer systems comprise an employee workstation and the shared file
+
+resources. Security alerts used a system of antivirus detection,
+file modification alerts, and user reports of inaccessible files.
+A detailed time line of the attack has been developed. 
+This simulation helped in understanding how ransomware incidents are 
+detected and prepared for effective actions in response to the incidents.
+
+---
+### 🔎 Additional Expert Notes
+- This section emphasizes structured response coordination.
+- Logging and documentation must be maintained throughout every phase.
+- All actions should align with organizational security policies and compliance requirements.

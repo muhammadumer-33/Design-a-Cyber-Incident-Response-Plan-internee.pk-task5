@@ -1,0 +1,38 @@
+PHASE 1: Understanding Incident Response
+
+A cyber incident refers to any event that threatens or violates the confidentiality, integrity, or availability (CIA) of an organization’s systems, networks, or data. Examples include ransomware attacks, phishing campaigns, malware infections, unauthorized system access, and data breaches.
+
+A Cyber Security Incident Management Plan is a structured and organized approach that defines how an organization detects, responds to, manages, and recovers from cybersecurity incidents. The purpose of this plan is to minimize operational disruption, reduce financial and reputational damage, and ensure a coordinated response during security emergencies.
+
+Without a clear response strategy, organizations may face extended downtime, data loss, financial penalties, and serious damage to their reputation. A well-developed incident response plan ensures that actions are taken quickly, systematically, and effectively.
+
+Core Components of Incident Response
+🔍 Threat Identification
+
+Recognizing potential security incidents through system logs, monitoring alerts, anomaly detection tools, or reports from users.
+
+🛑 Threat Isolation
+
+Containing the incident by separating affected systems from the network to prevent further spread or escalation.
+
+🧹 Threat Removal & System Cleansing
+
+Eliminating malicious code, closing exploited vulnerabilities, and removing unauthorized access points.
+
+🔄 Service Restoration
+
+Restoring affected systems, applications, and data using verified backups and secure configurations to resume normal operations.
+
+📊 Post-Incident Review & Continuous Improvement
+
+Conducting a detailed analysis of the incident to identify root causes, evaluate response effectiveness, and strengthen future security controls.
+
+🔎 Expert Insight
+
+Incident response must follow a clearly defined chain of command to avoid confusion during emergencies.
+
+Continuous logging and proper documentation are critical for forensic analysis and compliance requirements.
+
+Every response action should align with the organization’s security policies and regulatory obligations.
+
+Regular testing and simulation exercises improve readiness and response efficiency.

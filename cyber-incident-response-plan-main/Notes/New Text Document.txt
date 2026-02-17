@@ -1,0 +1,26 @@
+Incident Handling Procedures
+
+Threat Identification:
+The ransomware incident was detected through antivirus alerts,
+file modification logs, and user reports indicating inaccessible files.
+
+Threat Isolation:
+The infected system was immediately isolated from the network.
+Internet access and shared drive connections were temporarily blocked
+to prevent the spread of the ransomware.
+
+Threat Removal & System Cleansing:
+Malware was removed using security tools, infected files were cleaned,
+and system vulnerabilities were patched. Compromised user credentials
+were reset to eliminate the root cause.
+
+Service Restoration:
+Clean backups were restored, systems were returned to normal operation,
+and continuous monitoring was enabled to ensure system stability.
+
+
+---
+### 🔎 Additional Expert Notes
+- This section emphasizes structured response coordination.
+- Logging and documentation must be maintained throughout every phase.
+- All actions should align with organizational security policies and compliance requirements.

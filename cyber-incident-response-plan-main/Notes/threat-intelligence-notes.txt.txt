@@ -1,0 +1,20 @@
+Threat Intelligence & Case Studies
+
+Threat intelligence assists in understanding the impact that real-world events have on the
+in which cyber attacks are performed. In this phase, simulated ransomware intrusion scenario
+scenarios were analyzed via the MITRE ATT&CK model.
+
+public cybersecurity breach reports.
+As per MITRE ATT&CK, ransomware either starts through
+through emails like phishing or attachments. Once executed,
+
+the way that the malware is able to propagate throughout the network is through the lateral movement of
+and encrypts critical files, resulting in business disruptions.
+The real-life breach notification examples indicate that a lack of awareness and a delayed This response, however, may increase the impact of simulated ransomware intrusion scenarios. 
+These patterns of attack provide important guidance for creating effective incident response plan.
+
+---
+### 🔎 Additional Expert Notes
+- This section emphasizes structured response coordination.
+- Logging and documentation must be maintained throughout every phase.
+- All actions should align with organizational security policies and compliance requirements.
